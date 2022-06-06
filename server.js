@@ -13,7 +13,7 @@ const restaurants = {
         'price' : '$5 - 15',
         'map' : '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3718.0420383564942!2d-157.81378188511243!3d21.26980348586825!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c00727db01cf65b%3A0xf33ce6494ace66c5!2s3158%20Monsarrat%20Ave%2C%20Honolulu%2C%20HI%2096815%2C%20USA!5e0!3m2!1sen!2sca!4v1654549269124!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
     }, 
-    'yummy huli huli chicken' : {
+    'mikes kiawe broiled huli huli chicken' : {
         'image' : 'https://lirp.cdn-website.com/720a31de/dms3rep/multi/opt/IMG_1023-1920w.JPG',
         'address' : '56-565 Kamehameha Hwy, Kahuku, HI 96731, United States',
         'phone number' : '808-277-6720',
