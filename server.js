@@ -59,10 +59,10 @@ const restaurants = {
     'matsumoto shave ice' : {
         'image' : 'https://live.staticflickr.com/7353/26957792270_f27d2cd31b_b.jpg',
         'address' : '66-111 Kamehameha Hwy #605,\n Haleiwa, HI 96712, United States',
-        'phone number' : '808-637-4827',
+        'phoneNumber' : '808-637-4827',
         'category' : 'Dessert',
         'website' : 'https://matsumotoshaveice.com/',
-        'must try' : 'Chicken & Kalua Pork Lunch Plate',
+        'mustTry' : 'Chicken & Kalua Pork Lunch Plate',
         'price' : '$7 - 15',
         'map' : '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3501.6540006911255!2d-158.1060493708555!3d21.59088072229585!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c0058d374c913ed%3A0x3800adea096e5171!2sMatsumoto%20Shave%20Ice!5e0!3m2!1sen!2sca!4v1654552560711!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
     },
